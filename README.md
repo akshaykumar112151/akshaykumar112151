@@ -122,7 +122,7 @@ Project Management Dashboard.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/akshay-kumar-a3bb32328/
 - 💻 GitHub: https://github.com/akshaykumar112151
-- 🌍 Portfolio: YOUR_PORTFOLIO_URL
+- 🌍 Portfolio: https://akshaykumar-dev.vercel.app
 - 📧 Email: akshaykumar112151@gmail.com
 
 ---
