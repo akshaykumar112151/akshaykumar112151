@@ -1,14 +1,14 @@
-# Hi, I'm Akshay Kumar 👋
+# Hello, I'm Akshay Kumar 
 
 ## About Me
 
 I'm a **Software Engineer & Full Stack Developer** with 2+ years of experience building web, mobile, and admin applications. I enjoy creating scalable, secure, and production-ready solutions with modern technologies.
 
-* 🚀 Full Stack Development — Web & Mobile
-* 💻 React.js, Next.js, Node.js, Flutter & Python
-* 🗄️ PostgreSQL, MySQL & Prisma ORM
-* 🔐 Interested in scalable architecture, security & system design
-* 🎓 B.Tech in Computer Science & Engineering
+* Full Stack Development — Web & Mobile
+* React.js, Next.js, Node.js, Flutter & Python
+* PostgreSQL, MySQL & Prisma ORM
+* Interested in scalable architecture, security & system design
+* B.Tech in Computer Science & Engineering
 
 ## Skills
 
@@ -20,9 +20,9 @@ I'm a **Software Engineer & Full Stack Developer** with 2+ years of experience b
 
 ## Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/akshay-kumar-a3bb32328/)
-* 💻 [GitHub](https://github.com/akshaykumar112151)
-* 🌐 [Portfolio](https://akshaykumar-dev.vercel.app)
-* 📧 [Email](mailto:akshaykumar112151@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/akshay-kumar-a3bb32328/)
+* [GitHub](https://github.com/akshaykumar112151)
+* [Portfolio](https://akshaykumar-dev.vercel.app)
+* [Email](mailto:akshaykumar112151@gmail.com)
 
-Let's build something meaningful together! 🚀
+Let's build something meaningful together! 
