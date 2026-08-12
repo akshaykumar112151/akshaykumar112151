@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer & Full Stack Developer** with 2+ years of experience building web, mobile, and admin applications. I enjoy developing scalable, secure, and production-ready software using modern technologies.
 
-- **Focus:** Full Stack Web & Mobile Development
+- **Specialization:** Full Stack Web & Mobile Development
 - **Technologies:** React.js, Next.js, Node.js, Flutter & Python
 - **Databases:** PostgreSQL, MySQL & Prisma ORM
 - **Interests:** Scalable Architecture, Security & System Design
