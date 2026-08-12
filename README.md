@@ -1,26 +1,31 @@
-<h1 align="center">Akshay Kumar</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer</strong> &nbsp;|&nbsp; <strong>Full Stack Developer</strong>
-</p>
+# Akshay Kumar
 
-<p align="center">
-  Building scalable, secure, and production-ready web & mobile applications.
-</p>
+**Software Engineer · Full Stack Developer**
+
+Building scalable, secure & production-ready web and mobile applications.
+
+[LinkedIn](https://www.linkedin.com/in/akshay-kumar-a3bb32328/) · [Portfolio](https://akshaykumar-dev.vercel.app) · [GitHub](https://github.com/akshaykumar112151)
+
+</div>
 
 ---
 
-## About Me
+### About
 
-I'm a **Software Engineer & Full Stack Developer** with 2+ years of experience building web, mobile, and admin applications. I enjoy creating scalable, secure, and production-ready solutions with modern technologies.
+Software Engineer with **2+ years of experience** building web, mobile, and admin applications. I focus on creating clean, scalable, secure, and production-ready software using modern technologies.
 
-* **Full Stack Development** — Web & Mobile
-* **Core Technologies** — React.js, Next.js, Node.js, Flutter & Python
-* **Databases** — PostgreSQL, MySQL & Prisma ORM
-* **Interests** — Scalable Architecture, Security & System Design
-* **Education** — B.Tech in Computer Science & Engineering
+|               |                                                  |
+| ------------- | ------------------------------------------------ |
+| **Focus**     | Full Stack Web & Mobile Development              |
+| **Frontend**  | React.js · Next.js · TypeScript                  |
+| **Backend**   | Node.js · Express.js · Python                    |
+| **Database**  | PostgreSQL · MySQL · Prisma ORM                  |
+| **Interests** | System Design · Security · Scalable Architecture |
+| **Education** | B.Tech in Computer Science & Engineering         |
 
-## Skills
+### Technology
 
 **Frontend**
 React.js · Next.js · JavaScript · TypeScript · Tailwind CSS
@@ -37,20 +42,12 @@ PostgreSQL · MySQL · Prisma ORM
 **Tools**
 Git · GitHub · Postman · VS Code
 
-## Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/akshay-kumar-a3bb32328/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/akshaykumar112151">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://akshaykumar-dev.vercel.app">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:akshaykumar112151@gmail.com">Email</a>
-</p>
-
 ---
 
-<p align="center">
-  <strong>Let's build something meaningful together.</strong>
-</p>
+<div align="center">
+
+**Open to Software Engineering opportunities**
+
+[LinkedIn](https://www.linkedin.com/in/akshay-kumar-a3bb32328/) · [Portfolio](https://akshaykumar-dev.vercel.app) · [Email](mailto:akshaykumar112151@gmail.com)
+
+</div>
